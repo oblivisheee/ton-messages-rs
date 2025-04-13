@@ -2,6 +2,8 @@
 name = "ton-messages-rs"
 version = "0.1.0"
 edition = "2024"
+description = "This library provides a simple API to create messages for Tonlib SDK."
+license = "MIT"
 
 [dependencies]
 num-bigint = "0.4.6"
